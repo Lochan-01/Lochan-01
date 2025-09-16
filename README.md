@@ -9,7 +9,9 @@
 - 💬 Ask me about **Web**
 
 - 📫 How to reach me **lochanlochu1310@gmail.com**
-
+  
+- 🌐 Check out my portfolio: [lochan-portfolio](https://lochan-portfolio-sjed.onrender.com/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lochan-s-7560b9292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lochan s" height="30" width="40" /></a>
