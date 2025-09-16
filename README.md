@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lochanlochu1310@gmail.com**
   
-- 🌐 Check out my portfolio: [lochan-portfolio](https://lochan-portfolio-sjed.onrender.com/)
+- 🌐 Check out my portfolio: [lochan-portfolio]([https://lochan-portfolio-sjed.onrender.com/](https://lochan-01.github.io/Portfolio/))
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
