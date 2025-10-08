@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lochan S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochan-01&label=Profile%20views&color=0e75b6&style=flat" alt="lochan-01" /> </p>
 <img align="right" alt="Lochan's cute 404 cat" width="300" src="https://github.com/Lochan-01/Lochan-01/blob/main/download (1).png" />
