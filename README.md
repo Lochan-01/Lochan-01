@@ -6,7 +6,7 @@
 <img align="right" alt="Lochan's cute 404 cat" width="300" src="https://github.com/Lochan-01/Lochan-01/blob/main/download (1).png" />
 - 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about ***Web***
 
 - 📫 How to reach me **lochanlochu1310@gmail.com**
   
