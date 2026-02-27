@@ -8,7 +8,7 @@
 
 - 💬 Ask me about ***Web***
 
-- 📫 How to reach me **lochanlochu1310@gmail.com**
+- 📫 How to reach me **lochan1310.s@gmail.com**
   
 🌐 Check out my portfolio: [lochan-portfolio](https://lochan-01.github.io/Portfolio/)
   
