@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lochan1310.s@gmail.com**
   
-🌐 Check out my portfolio: [lochan-portfolio](https://lochan-01.github.io/Portfolio/)
+🌐 Check out my portfolio: [lochan-portfolio](https://myport-glp7.vercel.app)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
